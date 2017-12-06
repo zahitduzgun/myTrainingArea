@@ -1,3 +1,4 @@
+//gift for myBro
 program triangleWriting;
 uses crt, sayikarsilastirma;
 var
